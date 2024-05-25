@@ -12,9 +12,13 @@
  
  🔭 I’m currently working on **ML and AI projects**
  
- 🌱 I’m currently learning **R**
+ 🌱 I am currently studying **R** programming to enhance my data analysis skills.  
+
+ 👯 I'm excited to work together on new AI developments.
 
 💬 Ask me about **Python or anything [here](https://github.com/Dgmalthael/Dgmalthael/issues)**
+
+ 
 
 
  </div>
