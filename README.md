@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2D10CD&background=28FFD900&random=false&width=435&lines=   + Welcome+to+my+profile! + 👋" alt="Typing SVG"/>
+   
 </h1>
 
 <h3 align="center">I simplify a complexity for you</h3>
